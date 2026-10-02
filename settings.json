@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "BagelSmpnet.aternos.me",
+    "port": 32831,
     "version": "",
     "try-creative": false
   },
